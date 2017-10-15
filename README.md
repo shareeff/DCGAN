@@ -13,7 +13,9 @@ Prerequisites:
 3. scipy
 
 Usage:
+
 Run following commad
+
   $ python main.py
   
 Results:
