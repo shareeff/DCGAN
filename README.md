@@ -15,9 +15,10 @@ Prerequisites:
 Usage:
 
 Run following commad
-'''
+
+```
 $ python main.py
-'''
+```
   
 Results:
 
