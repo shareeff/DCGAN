@@ -15,10 +15,12 @@ Prerequisites:
 Usage:
 
 Run following commad
-
-  $ python main.py
+'''
+$ python main.py
+'''
   
 Results:
+
 Generated image after 1st iteration
 
 <img src="result/0_gen_image.png" width="600px">
