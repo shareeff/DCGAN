@@ -14,7 +14,7 @@ Prerequisites:
 
 Usage:
 
-Run following commad
+Run following command
 
 ```
 $ python main.py
